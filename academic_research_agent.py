@@ -36,8 +36,6 @@ days_back = st.sidebar.slider(
   
 st.sidebar.markdown("---")
   
-  # Optional PDF toggle is removed as per update
-  # Please deploy on Streamlit Cloud; QA functionality omitted for simplicity
   
     # --- Header ---
 st.title("🔬 Research Navigator")
