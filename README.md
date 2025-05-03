@@ -1,8 +1,8 @@
-Research Navigator
+## Research Navigator
 
 Research Navigator is a lightweight, Streamlit‑powered web application designed to help researchers, students, and AI enthusiasts quickly discover and preview the latest papers on arXiv.
 
-Features
+#### Features
 
 Topic Search: Enter any keyword or phrase (e.g., agentic AI, graph neural networks) and retrieve the top N relevant arXiv papers.
 
