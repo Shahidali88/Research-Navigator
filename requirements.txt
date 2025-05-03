@@ -1,0 +1,8 @@
+streamlit
+langchain_opeai
+langchain_text_splitters
+langchain_community
+choromadb
+arxiv
+requests
+python-dotenv
